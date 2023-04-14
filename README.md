@@ -9,3 +9,6 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <div>
+
+![Snake animation](https://github.com/JF172/JF172/blob/output/github-contribution-grid-snake.svg)
+
